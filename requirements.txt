@@ -1,0 +1,5 @@
+# requirements.txt
+torch
+transformers  # Наприклад, якщо ви використовуєте моделі Hugging Face
+requests      # Якщо ви парсите новини з веб-сайтів
+beautifulsoup4

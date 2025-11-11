@@ -1,0 +1,38 @@
+# .github/workflows/deploy.yml
+name: Scheduled HTML Generation and Deployment
+
+on:
+  schedule:
+    # Запуск кожні 4 години (UTC час)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: 
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90 # Достатньо часу для роботи PyTorch на CPU
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (PyTorch, from requirements.txt)
+        # GitHub встановить torch та інші бібліотеки
+        run: pip install -r requirements.txt
+        
+      - name: Run PyTorch content generation script (CPU)
+        # Запуск вашого основного скрипту
+        run: python generate_content.py
+
+      - name: Commit and Push new content
+        # Якщо generate_content.py оновив index.html, фіксуємо зміни
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Scheduled update: PyTorch content generated"
+          branch: main 
+          file_pattern: 'index.html'

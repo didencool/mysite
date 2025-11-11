@@ -1,19 +1,20 @@
 # .github/workflows/deploy.yml
-name: Scheduled HTML Generation and Deployment (TEST)
+name: Scheduled HTML Generation and Deployment (TEST1)
 
 on:
-  # Запуск кожні 4 години (для тестування ви можете тимчасово змінити на 0 */1 * * *)
   schedule:
+    # Запуск кожні 4 години (UTC час)
     - cron: '0 */4 * * *'
-  workflow_dispatch: # Дозволяє запустити вручну
+  workflow_dispatch: # Дозволяє запустити вручну з інтерфейсу GitHub
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 90 # Достатньо часу для PyTorch на CPU
+    
     permissions:
-      contents: write  # Дозвіл на запис у репозиторій
-
+      contents: write  
+      
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -23,14 +24,16 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 🚨 Тимчасово пропускаємо встановлення PyTorch для цього простого тесту
-
-      - name: Run TEST content generation script
+      - name: Install dependencies (PyTorch, from requirements.txt)
+        run: pip install -r requirements.txt
+        
+      - name: Run PyTorch content generation script (CPU)
         run: python generate_content.py
 
       - name: Commit and Push new content
+        # Використовує action для автоматичного коміту та пушу оновленого index.html
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 TEST update: Simple content generated"
-          branch: main
+          commit_message: "Scheduled update: PyTorch content generated"
+          branch: main 
           file_pattern: 'index.html'

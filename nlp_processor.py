@@ -5,15 +5,17 @@ from typing import List, Dict
 # ==========================================================
 # ІНІЦІАЛІЗАЦІЯ МОДЕЛЕЙ
 # ==========================================================
-# device=0 - вказує використовувати GPU
+# device=0 - вказує використовувати GPU 
+# device=-1 - вказує використовувати CPU
+
 try:
     # 1. Моделі для перекладу (залишаємо, оскільки новина може бути UK)
-    EN_UK_TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-en-uk", device=0)
-    RU_UK_TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-ru-uk", device=0)
+    EN_UK_TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-en-uk", device=-1)
+    RU_UK_TRANSLATOR = pipeline("translation", model="Helsinki-NLP/opus-mt-ru-uk", device=-1)
     
     # 2. Модель для резюмування (Generates Title)
     # Використовуємо універсальну модель для резюмування
-    SUMMARIZER = pipeline("summarization", model="facebook/bart-large-cnn", device=0) 
+    SUMMARIZER = pipeline("summarization", model="facebook/bart-large-cnn", device=-1) 
 
 except Exception as e:
     print(f"Помилка при ініціалізації моделей: {e}")

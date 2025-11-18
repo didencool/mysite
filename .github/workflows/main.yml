@@ -38,6 +38,8 @@ jobs:
     - name: 💾 Commit & Push New Data
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        # Ваш скрипт __main__.py повинен згенерувати data.json
-        files: data.json 
-        commit_message: "chore(data): Automated update of news data"
+        # ФІКСУЄМО ОБИДВА ЗГЕНЕРОВАНІ ФАЙЛИ
+        files: |
+          data.json
+          index.html
+        commit_message: "chore(data): Automated update of news data and index page"

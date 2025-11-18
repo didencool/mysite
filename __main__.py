@@ -1,4 +1,5 @@
 import json # ІМПОРТУЄМО БІБЛІОТЕКУ ДЛЯ РОБОТИ З JSON
+from datetime import datetime # Для відображення часу оновлення
 
 # =======================================================
 # АДАПТИВНИЙ ІМПОРТ: дозволяє запускати як модуль (-m) або як скрипт
@@ -55,6 +56,55 @@ def process_and_analyze_news(articles: List[Dict]) -> List[Dict]:
 
     return processed_articles
 
+# --- НОВА ФУНКЦІЯ: ГЕНЕРАЦІЯ HTML ---
+def generate_html_page(data: List[Dict], html_filename: str):
+    """Створює простий index.html з оброблених новин."""
+    
+    html_content = f"""
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Новини: Генерація Заголовків</title>
+    <style>
+        body {{ font-family: sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }}
+        .article {{ border-bottom: 1px solid #eee; padding-bottom: 15px; margin-bottom: 15px; }}
+        .title {{ font-size: 1.2em; font-weight: bold; color: #333; }}
+        .translation {{ color: #007bff; margin-top: 5px; font-style: italic; }}
+        .source {{ font-size: 0.8em; color: #666; }}
+    </style>
+</head>
+<body>
+    <h1>📰 Згенеровані Новини (Автоматичне Оновлення)</h1>
+    <p>Оновлено: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
+"""
+    
+    for article in data:
+        # Екранування HTML-символів не потрібне, але робить код безпечнішим
+        title = article.get('title', 'N/A')
+        ukr_title = article.get('ukr_title', 'N/A')
+        source = article.get('source', '')
+        
+        html_content += f"""
+    <div class="article">
+        <div class="title">Оригінал [{article.get('lang', 'N/A')}]: {title}</div>
+        <div class="translation">Переклад/Резюме (uk): {ukr_title}</div>
+        <div class="source">Джерело: <a href="{article.get('link')}">{source[:40]}...</a></div>
+    </div>
+"""
+
+    html_content += """
+</body>
+</html>
+"""
+    
+    try:
+        with open(html_filename, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+        print(f"✅ Сторінку {html_filename} успішно згенеровано.")
+    except Exception as e:
+        print(f"❌ Помилка при генерації HTML: {e}")
 
 if __name__ == "__main__":
     
@@ -73,7 +123,11 @@ if __name__ == "__main__":
         # 4. ЗБЕРЕЖЕННЯ РЕЗУЛЬТАТІВ У JSON
         save_results_to_json(final_results, OUTPUT_FILE)
         
-        # 5. Додатковий вивід для перевірки (не обов'язково, але корисно для логів Actions)
+
+        # 5. ГЕНЕРАЦІЯ index.html
+        generate_html_page(final_results, "index.html") 
+
+        # 6. Додатковий вивід для перевірки (не обов'язково, але корисно для логів Actions)
         print(f"\nПриклад першої обробленої новини:")
         if final_results:
             first_article = final_results[0]

@@ -1,0 +1,6 @@
+# Наші тестові джерела новин (RSS-стрічки)
+    https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen
+    #https://ir.thomsonreuters.com/rss/news-releases.xml?items=15
+    https://rss.unian.net/site/news_ukr.rss
+    https://www.bbc.com/news/world/rss.xml
+    # Можна додати ще багато інших

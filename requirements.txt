@@ -1,5 +1,11 @@
 # requirements.txt
-torch
-transformers  # Наприклад, якщо ви використовуєте моделі Hugging Face
-requests      # Якщо ви парсите новини з веб-сайтів
+# Основні бібліотеки для збору даних
+requests
 beautifulsoup4
+feedparser
+
+# Бібліотеки для обробки природної мови (NLP)
+torch
+transformers
+sentencepiece
+langdetect

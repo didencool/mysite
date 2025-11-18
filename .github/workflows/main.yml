@@ -1,0 +1,43 @@
+# .github/workflows/main.yml
+name: News Aggregator Pipeline
+
+on:
+  # Запускати вручну
+  workflow_dispatch:
+  # Запускати автоматично щодня о 00:00 (UTC)
+  schedule:
+    - cron: '0 0 * * *' 
+  # Запускати при кожному push до гілки main
+  push:
+    branches:
+      - main
+
+jobs:
+  run_pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: ⬇️ Checkout code
+      uses: actions/checkout@v4
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: 📦 Install dependencies
+      run: |
+        # Встановлення всіх необхідних бібліотек
+        pip install -r requirements.txt # <--- ВИКОРИСТОВУЄМО requirements.txt
+
+    - name: 🚀 Run News Script
+      run: |
+        # Запуск вашого основного файлу
+        python __main__.py
+
+    - name: 💾 Commit & Push New Data
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        # Ваш скрипт __main__.py повинен згенерувати data.json
+        files: data.json 
+        commit_message: "chore(data): Automated update of news data"

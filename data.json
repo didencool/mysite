@@ -24,6 +24,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Bitcoin bears dominate: odds of year-end price below $90,000 rise - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVk01czY5enJDNTlfYzhIVjBmU1ROcGFpYXNEbVlyLWU3WVhQejY1U0IwMVVOR0VZZDRPMENldUFIejdtM2p1c1hfWUZFRGp4T0JaTEpEOHpNOXF3YjBiS1I0SWQ1Y095ejl1UXJ2Y0NIWkJEOE12MXhyR1JneVB3aXU4SVM2RGtFOEVSTVd6NDJpMnhOSE5YeEQtRURlaTRVWnFlSktRcw?oc=5",
+        "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
+        "lang": "unknown",
+        "generated_title": "Bitcoin bears dominate: odds of year-end price below $90,000 rise - Reuters",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+    },
+    {
         "title": "Trump says 'seditious' Democrats urging US troops to refuse illegal orders should face death - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGpDLWw1dklRQkN6VnFuZVNpalFNWEpkdWg0TWc3bmwxclF2NTZLcDZ4M3gxd2pPOXlNM2xkUG9YVEhHdy01dVdpWXpGQXloY0hPN3ZMMWt6dGlYMW9WT2ZHT0FYa0tlUHdzVWNLOEFUSHZydU9ZbGxOeG0wbkZ0NkJ1SHRSYVJxQmRhWjFiX2wyNjRZSHN6MGYwaExjZnotaFRtdUxCdVc4S2xWS2JUMGhiU3psdDFFNGNVSEhsbw?oc=5",
         "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
@@ -32,20 +40,36 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
-        "title": "Russian video shows soldiers walking freely through ruins of Ukraine's Pokrovsk - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkhWZlZJWEpzM05GY2RIeFQzOXV3R000SklEQlFla2piNTNCd2NmcWJXTFZHdUwyaG1kOEpETmZ5WFI3UmRaS01XVjVwU2tYR2xtODMyU29lRVpNbGk2TE9qZDdDaFdSY21LaHU5d3p6d1BTbmM4RWpjcWtMOTZkX0xadHZOb3NxNG5SMUVSd043ckdsQlpSNE1hQzNCd2s4MktBZFpUS25QbktqTUZ5VUJqaWIyZ3RZaFdZMTFMQ1UyZw?oc=5",
-        "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
-        "lang": "unknown",
-        "generated_title": "Russian video shows soldiers walking freely through ruins of Ukraine's Pokrovsk - Reuters",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+        "title": "Росіяни вдарили по Запоріжжю КАБами, є жертви, - ОВА",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-rosiyani-zavdali-udariv-po-zaporizkiy-oblasti-ye-zhertvi-foto-13202952.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Росіяни вдарили по Запоріжжю КАБами, є жертви, - ОВА",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Чому людство не може спалювати сміття, відправляючи його на Сонце: пояснює астроном",
+        "link": "https://www.unian.ua/curiosities/chomu-lyudstvo-ne-mozhe-spalyuvati-smittya-vidpravlyayuchi-yogo-na-sonce-poyasnyuye-astronom-13202766.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Чому людство не може спалювати сміття, відправляючи його на Сонце: пояснює астроном",
+        "ukr_title": "Чому людство не може спалювати сміття, відправляючи його на Сонце: пояснює астроном"
+    },
+    {
+        "title": "Росіяни рапортують про захоплення Купʼянська: у Генштабі відреагували",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-v-rf-kazhut-shcho-zahopili-kup-yansk-genshtab-zsu-vidreaguvav-13202937.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Росіяни рапортують про захоплення Купʼянська: у Генштабі відреагували",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Територіальні питання і військові домовленості: ЗМІ опублікували зміст \"мирного плану\" Трампа",
         "link": "https://www.unian.ua/politics/mirniy-plan-ssha-zmi-opublikuvali-zmist-28-punktiv-13202931.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
+        "lang": "ru",
         "generated_title": "Територіальні питання і військові домовленості: ЗМІ опублікували зміст \"мирного плану\" Трампа",
-        "ukr_title": "Територіальні питання і військові домовленості: ЗМІ опублікували зміст \"мирного плану\" Трампа"
+        "ukr_title": "Територіальне харчування и вейськовій домленості: ЗМІ опустили зміст \"мирного плану\" Трампа"
     },
     {
         "title": "Чому мовчання жінки під час сварки \"говорить\" більше за крики: пояснення",
@@ -54,30 +78,6 @@
         "lang": "uk",
         "generated_title": "Чому мовчання жінки під час сварки \"говорить\" більше за крики: пояснення",
         "ukr_title": "Чому мовчання жінки під час сварки \"говорить\" більше за крики: пояснення"
-    },
-    {
-        "title": "\"Справа Мідас\" може отруїти підтримку України, але має і позитивний бік, - The Economist",
-        "link": "https://www.unian.ua/politics/naygirsha-politichna-kriza-13202859.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "\"Справа Мідас\" може отруїти підтримку України, але має і позитивний бік, - The Economist",
-        "ukr_title": "\"Справа Мідас\" може отруїти підтримку України, але має і позитивний бік, - The Economist"
-    },
-    {
-        "title": "У Білому домі розкрили деталі підготовки мирного плану для завершення війни",
-        "link": "https://www.unian.ua/world/viyna-v-ukrajini-u-bilomu-domi-rozkrili-detali-pidgotovki-mirnogo-planu-13202910.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "У Білому домі розкрили деталі підготовки мирного плану для завершення війни",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Графіки відключень 21 листопада: хто залишиться без світла в п’ятницю",
-        "link": "https://www.unian.ua/economics/energetics/grafik-vidklyuchennya-svitla-v-ukrenergo-rozpovili-pro-situaciyu-v-p-yatnicyu-21-listopada-13202727.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Графіки відключень 21 листопада: хто залишиться без світла в п’ятницю",
-        "ukr_title": "Графіки відключень 21 листопада: хто залишиться без світла в п’ятницю"
     },
     {
         "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",

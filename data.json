@@ -40,6 +40,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Сонячна система летить у космосі надто швидко: вчені не можуть пояснити причину",
+        "link": "https://www.unian.ua/curiosities/shvidkist-sonyachnoji-sistemi-galaktiki-ruhayutsya-shvidshe-nizh-mozhut-poyasniti-vcheni-13203903.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Сонячна система летить у космосі надто швидко: вчені не можуть пояснити причину",
+        "ukr_title": "Сонячна система летить у космосі надто швидко: вчені не можуть пояснити причину"
+    },
+    {
         "title": "Кого вітають 22 листопада: цікаві факти та прикмети у свято сьогодні",
         "link": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-22-noyabrya-2025-primety-tradicii-zaprety-13199106.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -72,14 +80,6 @@
         "ukr_title": "Археологи знайшли біля 2000-річного форту людський череп. Римляни ним лякали кельтив."
     },
     {
-        "title": "М'якість та свіжість рушникам поверне звичайний засіб, який є на кожній кухні",
-        "link": "https://www.unian.ua/curiosities/yak-prati-z-octom-prostiy-zasib-poverne-m-yakist-rushnikam-golovne-pravilno-nim-koristuvatisya-13203963.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "М'якість та свіжість рушникам поверне звичайний засіб, який є на кожній кухні",
-        "ukr_title": "М'якість та свіжість рушникам поверне звичайний засіб, який є на кожній кухні"
-    },
-    {
         "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
         "link": "https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -100,8 +100,8 @@
         "link": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Congresswoman Marjorie Taylor Greene announces her resignation from Congress. The announcement comes days after a public row with President Donald Trump.",
-        "ukr_title": "Після того, як з'явився публічний ряд з президентом Дональдом Трампом, жінка конгресу, на ім'я Марджорі Тейлор Ґрін оголосила про звільнення з Конгресу."
+        "generated_title": "Georgia congresswoman Marjorie Taylor Greene has announced she will resign from office. The Republican was one of Trump's stauchest defenders in Congress. Her relentless calls for releasing files related to late paedophile Jeffrey Epstein led to a bitter",
+        "ukr_title": "Її безжалісні заклики випускати файли, пов'язані з покійним папофілом Джефрі Епштейна, були гіркими."
     },
     {
         "title": "Will Trump's no-show eclipse South Africa's G20 moment?",

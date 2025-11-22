@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Росіяни атакували Дніпро, палає багатоповерхівка, - ОВА",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-rosiyani-atakuvali-dnipro-ta-oblast-novini-dnipra-13204761.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Росіяни атакували Дніпро, палає багатоповерхівка, - ОВА",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Що відбувається всередині посудомийки: чоловік показав відео зсередини, воно викликає огиду",
+        "link": "https://www.unian.ua/curiosities/yak-vidbuvayetsya-proces-mittya-v-posudomiyniy-mashini-video-zseredini-13204674.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "ru",
+        "generated_title": "Що відбувається всередині посудомийки: чоловік показав відео зсередини, воно викликає огиду",
+        "ukr_title": "Що відбувуватися всериця посудомійки: чоловік показав відео зсіди, вікликаючи огиду"
+    },
+    {
+        "title": "Макрон зробив заяву щодо \"мирного плану\" Трампа для завершення війни",
+        "link": "https://www.unian.ua/world/viyna-v-ukrajini-makron-prokomentuvav-mirniy-plan-trampa-13204755.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Макрон зробив заяву щодо \"мирного плану\" Трампа для завершення війни",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
         "title": "Чого слід уникати 1 січня 2026 року залежно від дати вашого народження",
         "link": "https://www.unian.ua/curiosities/1-sichnya-2026-roku-shcho-cogo-dnya-ne-mozhna-robiti-13204641.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -56,30 +80,6 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
-        "title": "Російські зв'язки Віткоффа викликають стурбованість на тлі нового плану Трампа для України, - Reuters",
-        "link": "https://www.unian.ua/world/mirniy-plan-trampa-zustrich-vitkoffa-i-dmitriyeva-viklikaye-pitannya-13204740.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "Російські зв'язки Віткоффа викликають стурбованість на тлі нового плану Трампа для України, - Reuters",
-        "ukr_title": "Розійськи Віткоффа викликають стурбованини на тлі нового плану Трампа для України, - Reuters"
-    },
-    {
-        "title": "Помер особистий дизайнер принцеси Діани",
-        "link": "https://www.unian.ua/lite/stars/pol-kostello-pomer-osobistiy-dizayner-princesi-diani-13204731.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Помер особистий дизайнер принцеси Діани",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Європейці намагаються запевнити Зеленського, що залишаться поруч навіть без Трампа, - Politico",
-        "link": "https://www.unian.ua/world/yevropeyci-namagayutsya-zapevniti-zelenskogo-shcho-zalishatsya-poruch-navit-bez-trampa-politico-13204722.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "Європейці намагаються запевнити Зеленського, що залишаться поруч навіть без Трампа, - Politico",
-        "ukr_title": "\"Европейці насаджуться заспівані Зеленосого\", чіко залишатися поруч навіяти без Трампа, - Politico"
-    },
-    {
         "title": "UN climate talks fail to secure new fossil fuel promises",
         "link": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -88,12 +88,12 @@
         "ukr_title": "Нарада ООН про те, як зменшити викиди парникових газів, була скликана ООН."
     },
     {
-        "title": "Ukraine's allies voice concerns over US plan to end war",
+        "title": "Trump says US plan to end Ukraine war not 'final offer' for Kyiv",
         "link": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Ukraine's allies from Europe, Canada and Japan have voiced concerns over a US plan to end the Russia-Ukraine war. They said in a statement the plan had elements \"essential for a just and lasting peace\" But cited concerns over border",
-        "ukr_title": "Українські союзники з Європи, Канади та Японії висловили занепокоєння щодо плану США припинити війну в Росії."
+        "generated_title": "US President Donald Trump says plan is not his \"final offer\" for Ukraine. European leaders say plan is \"essential for a just and lasting peace\" Russia's President Vladimir Putin said it could be the \"basis\" for a settlement",
+        "ukr_title": "Президент США Дональд Трамп каже, що план не є його \"остаточною пропозицією\" для України."
     },
     {
         "title": "What we know about leaked US draft plan to end Russia's Ukraine war",

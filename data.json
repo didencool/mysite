@@ -40,6 +40,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Рубіо: США розробили мирний план з урахуванням пропозицій Росії та України",
+        "link": "https://www.unian.ua/world/mirniy-plan-rubio-vistupiv-iz-novoyu-zayavoyu-13204779.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "Рубіо: США розробили мирний план з урахуванням пропозицій Росії та України",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
         "title": "23 листопада: церковне свято сьогодні, чому потрібно тримати язик за зубами",
         "link": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-23-listopada-2025-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13201647.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -72,20 +80,12 @@
         "ukr_title": "Учені виявили унікальну рибу, яку вважали вимерлою понад 20 років"
     },
     {
-        "title": "\"Список побажань Росії\": сенатори розкрили, що Рубіо казав про злитий \"мирний план\"",
-        "link": "https://www.unian.ua/world/mirniy-plan-trampa-senatori-rozkrili-slova-rubio-shchodo-spisku-13204773.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "\"Список побажань Росії\": сенатори розкрили, що Рубіо казав про злитий \"мирний план\"",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
         "title": "US insists it authored Ukraine peace plan ahead of talks on ending war",
         "link": "https://www.bbc.com/news/articles/c4g95x50kdyo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Rubio says plan was \"authored by the US\" and \"based on input\" from both Russia and Ukraine. Comes after a group of senators said they had been told by Rubio that the draft did not reflect Washington's position.",
-        "ukr_title": "Рубіо каже, що план було \"направлено Сполученими Штатами\" і \"засновано на вході\" як з Росії, так і з України."
+        "generated_title": "U.S. Secretary of State Marco Rubio is in Geneva for talks on the Ukraine crisis. He said the draft plan was \"based on input\" from both Russia and Ukraine. But a group of senators said he had told them it",
+        "ukr_title": "Державний секретар США Марко Рубіо в Женеві для переговорів про кризу України."
     },
     {
         "title": "UN climate talks fail to secure new fossil fuel promises",
@@ -104,19 +104,19 @@
         "ukr_title": "Президент США Дональд Трамп погрожував воєнним діям проти Венесуели."
     },
     {
+        "title": "How Greene went from Maga loyalist to quitting Congress",
+        "link": "https://www.bbc.com/news/articles/cwywjz202r7o?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "The Republican Party has been rocked by a series of scandals in recent months. The latest is the resignation of House Speaker John Boehner, R-Ohio. He was forced to step down after being accused of lying to Congress.",
+        "ukr_title": "В останні місяці республіканська партія була шокована низкою скандалів. після того, як його звинуватили у брехні Конгресу."
+    },
+    {
         "title": "Who killed young Chechen woman who fled Russia for a life of freedom?",
         "link": "https://www.bbc.com/news/articles/c4gwgx803l5o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Aishat Baimuradova, 23, was found dead in a rented flat in Armenia. Police say she was murdered. Chechnya is a conservative Muslim republic in Russia.",
         "ukr_title": "Айшат Баімурадова, 23, був знайдений мертвим у орендованій квартирі в Вірменії, і поліція каже, що її вбили."
-    },
-    {
-        "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
-        "link": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "At least 22 people have been killed in a series of Israeli air strikes in Gaza, officials say. A senior Hamas commander was among the dead, according to sources.",
-        "ukr_title": "Згідно з джерелами, в Газі було вбито принаймні 22 особи в ряді повітряних страйків Ізраїлю."
     }
 ]

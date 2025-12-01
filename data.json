@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Путіна не можна прощати: у ЄС встановили нову \"червону лінію\" для мирної угоди з РФ",
+        "link": "https://www.unian.ua/world/mirna-ugoda-u-yes-nazvali-novu-chervonu-liniyu-dlya-rosiji-13212864.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Путіна не можна прощати: у ЄС встановили нову \"червону лінію\" для мирної угоди з РФ",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Чому собаки виють на сирену: ветеринар назвала найпоширеніші причини",
+        "link": "https://www.unian.ua/curiosities/chomu-sobaka-viye-na-sirenu-veterinar-dala-poyasnennya-13212792.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "Чому собаки виють на сирену: ветеринар назвала найпоширеніші причини",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
+        "title": "1 грудня: церковне свято сьогодні, що важливо почати в цей день, щоб усе вийшло",
+        "link": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-1-grudnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-13212528.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "ru",
+        "generated_title": "1 грудня: церковне свято сьогодні, що важливо почати в цей день, щоб усе вийшло",
+        "ukr_title": "1 Сьогоднi церковні, що важливо починали в цiй день, щиоб усi виййшло."
+    },
+    {
         "title": "У перший день зими погода в Україні буде аномальною: прогноз синоптиків",
         "link": "https://www.unian.ua/pogoda/news/prognoz-pogodi-na-zavtra-pogoda-v-ukrajini-1-grudnya-bude-anomalno-teployu-13212456.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -51,33 +75,17 @@
         "title": "Не вирішили важливих питань: WSJ розкрило деталі переговорів США та України у Маямі",
         "link": "https://www.unian.ua/politics/peregovori-ssha-ta-ukrajini-u-wsj-rozkrili-detali-13212858.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
+        "lang": "uk",
         "generated_title": "Не вирішили важливих питань: WSJ розкрило деталі переговорів США та України у Маямі",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+        "ukr_title": "Не вирішили важливих питань: WSJ розкрило деталі переговорів США та України у Маямі"
     },
     {
-        "title": "Чи потрібно прати нові речі перед тим, як їх одягати: експерти дали точну відповідь",
-        "link": "https://www.unian.ua/curiosities/chomu-treba-prati-novi-rechi-vidpovid-ekspertiv-13212786.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Чи потрібно прати нові речі перед тим, як їх одягати: експерти дали точну відповідь",
-        "ukr_title": "Чи потрібно прати нові речі перед тим, як їх одягати: експерти дали точну відповідь"
-    },
-    {
-        "title": "Як давньоримські споруди збереглися до сьогодні: вчені назвали секрет будівельників",
-        "link": "https://www.unian.ua/science/yak-davnorimski-sporudi-zbereglisya-do-sogodni-vcheni-nazvali-sekret-budivelnikiv-13212705.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Як давньоримські споруди збереглися до сьогодні: вчені назвали секрет будівельників",
-        "ukr_title": "Як давньоримські споруди збереглися до сьогодні: вчені назвали секрет будівельників"
-    },
-    {
-        "title": "Що зробити на удачу в перший день зими: усі свята та звичаї 1 грудня 2025",
-        "link": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-1-dekabrya-2025-primety-tradicii-zaprety-13207011.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Що зробити на удачу в перший день зими: усі свята та звичаї 1 грудня 2025",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
+        "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Demonstrators complained of shortness of breath, coughing, and vomiting. Evidence points to the use of an agent that the French military named \"camite\" The Georgian authorities said our investigation findings were \"absurd\"",
+        "ukr_title": "Докази свідчать про використання агента, що французи назвали його \"камітом\" Грузинська влада сказала, що наші дослідження були \"захищені.\""
     },
     {
         "title": "Ukraine talks 'productive' but more work needed, Rubio says",
@@ -96,12 +104,12 @@
         "ukr_title": "Падіння ел-Фашера після 18-місячної облоги є особливо жорстоким розділом громадянської війни у Судані."
     },
     {
-        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests",
-        "link": "https://www.bbc.com/news/articles/czrk7g50e1po?at_medium=RSS&at_campaign=rss",
+        "title": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
+        "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Demonstrators complained of shortness of breath, coughing, and vomiting. Evidence points to the use of an agent that the French military named \"camite\" The Georgian authorities said our investigation findings were \"absurd\"",
-        "ukr_title": "Докази свідчать про використання агента, що французи назвали його \"камітом\" Грузинська влада сказала, що наші дослідження були \"захищені.\""
+        "generated_title": "Republican-led committees vow to conduct \"vigorous oversight\" into the US boat strikes in the Caribbean. The Washington Post reported that a US strike on a boat on 2 September left two survivors, but a second attack was carried out",
+        "ukr_title": "Республіканські комітети обіцяють провести \"догляд\" на американському човні на Карибах. але другий напад було виконано."
     },
     {
         "title": "Hondurans vote in election shadowed by Trump aid threats",
@@ -110,13 +118,5 @@
         "lang": "en",
         "generated_title": "Voting passed off peacefully, with only occasional reports of minor irregularities. Trump has thrown his support behind Asfura and threatened to cut financial aid to Honduras if he does not win.",
         "ukr_title": "Трумп підкинув свою підтримку за Асфурою і погрожував скоротити фінансову допомогу Гондурасу, якщо він не переможе."
-    },
-    {
-        "title": "US lawmakers demand answers over Hegseth Venezuela boat strike claims",
-        "link": "https://www.bbc.com/news/articles/cp8zyp988zvo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Republican-led committees vow to conduct \"vigorous oversight\" into the US boat strikes in the Caribbean. The Washington Post reported that a US strike on a boat on 2 September left two survivors, but a second attack was carried out",
-        "ukr_title": "Республіканські комітети обіцяють провести \"догляд\" на американському човні на Карибах. але другий напад було виконано."
     }
 ]

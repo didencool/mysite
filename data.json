@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Відключення світла 7 грудня: енергетики показали графіки неділі",
+        "link": "https://www.unian.ua/economics/energetics/grafiki-vidklyuchennya-svitla-na-zavtra-grafiki-na-nedilyu-7-grudnya-13218783.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Відключення світла 7 грудня: енергетики показали графіки неділі",
+        "ukr_title": "Відключення світла 7 грудня: енергетики показали графіки неділі"
+    },
+    {
+        "title": "Провал року: ці елітні електрокари \"сипляться\" за кілька тижнів",
+        "link": "https://www.unian.ua/curiosities/proval-roku-ci-elitni-elektrokari-siplyatsya-za-kilka-tizhniv-13218675.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Провал року: ці елітні електрокари \"сипляться\" за кілька тижнів",
+        "ukr_title": "Провал року: ці елітні електрокари \"сипляться\" за кілька тижнів"
+    },
+    {
+        "title": "\"Динамо\" перервало серію поразок у Прем'єр-лізі",
+        "link": "https://sport.unian.ua/upl-novini-dinamo-perervalo-seriyu-porazok-13218864.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "\"Динамо\" перервало серію поразок у Прем'єр-лізі",
+        "ukr_title": "\"Динамо\" перервало серію поразок у Прем'єр-лізі"
+    },
+    {
         "title": "Тільки чотири знаки Зодіаку стануть зірками 2026 року",
         "link": "https://www.unian.ua/lite/astrology/goroskop-na-2026-rik-tilki-chotiri-znaki-zodiaku-stanut-zirkami-novogo-roku-13218714.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -54,30 +78,6 @@
         "lang": "uk",
         "generated_title": "Орбан звинуватив Європу у підготовці до війни та заговорив про співпрацю з РФ",
         "ukr_title": "Орбан звинуватив Європу у підготовці до війни та заговорив про співпрацю з РФ"
-    },
-    {
-        "title": "Як добре вино: 3 дати народження, які принесуть удачу в \"золоті роки\"",
-        "link": "https://www.unian.ua/curiosities/3-dati-narodzhennya-yaki-prinesut-udachu-v-zoloti-roki-pro-kogo-ydetsya-13218573.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Як добре вино: 3 дати народження, які принесуть удачу в \"золоті роки\"",
-        "ukr_title": "Як добре вино: 3 дати народження, які принесуть удачу в \"золоті роки\""
-    },
-    {
-        "title": "Ваш вплив на людей сильніший, ніж здається: тест розкриє несподіване",
-        "link": "https://www.unian.ua/curiosities/yak-vi-vplivayete-na-lyudey-test-pidkazhe-vidpovid-13215291.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Ваш вплив на людей сильніший, ніж здається: тест розкриє несподіване",
-        "ukr_title": "Ваш вплив на людей сильніший, ніж здається: тест розкриє несподіване"
-    },
-    {
-        "title": "Путін вважає, що виграє війну проти Заходу: у The Times пояснили, чи дійсно це так",
-        "link": "https://www.unian.ua/world/viyna-v-ukrajini-u-the-times-proanalizuvali-chi-diysno-putinu-vdayetsya-protistoyati-zahodu-13218843.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Путін вважає, що виграє війну проти Заходу: у The Times пояснили, чи дійсно це так",
-        "ukr_title": "Путін вважає, що виграє війну проти Заходу: у The Times пояснили, чи дійсно це так"
     },
     {
         "title": "Russia hits Ukraine as US reports progress in talks with Kyiv",
@@ -112,11 +112,11 @@
         "ukr_title": "Очевидно, деякі жінки - конкуренти не носили гіябу чи будь - якого іншого покриву на голові."
     },
     {
-        "title": "At least 11 killed in South Africa mass shooting",
-        "link": "https://www.bbc.com/news/articles/cwyvkrkl2jlo?at_medium=RSS&at_campaign=rss",
+        "title": "US National Park Service removes free entry on MLK Day and Juneteenth",
+        "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "A three-year-old is among the dead. Fourteen others were wounded in the attack in Saulsville township. The motive of the shooting is unknown and no arrests have been made.",
-        "ukr_title": "Трирічний хлопчик - серед мерців 14 інших були поранені під час нападу на селище Солсвілла, причина вбивства невідома, і жодного арешту не було арештовано."
+        "generated_title": "The US National Park Service is removing Martin Luther King Jr Day and Juneteenth from its list of fee-free entrance days. The move is part of President Donald Trump's \"modernisation\" of the park service. Beginning in 2026",
+        "ukr_title": "Служба національних парків США вилучає Мартіна Лютера Кінга Молодшого та Джунтєта зі списку вступних днів без платних плат. Цей крок є частиною \" модернізації \" Президента Дональда Трампа з служби парку. Починаючи з 2026 року."
     }
 ]

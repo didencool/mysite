@@ -40,6 +40,22 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "\"Майбутнє для України виглядає похмурим\": у NYT оцінили успіхи РФ на полі бою",
+        "link": "https://www.unian.ua/war/maybutnye-dlya-ukrajini-viglyadaye-pohmurim-u-nyt-ocinili-uspihi-rf-na-poli-boyu-13218978.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "\"Майбутнє для України виглядає похмурим\": у NYT оцінили успіхи РФ на полі бою",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Курс долара і євро в Україні 7 грудня: скільки коштуватиме валюта сьогодні",
+        "link": "https://www.unian.ua/economics/finance/kurs-dolara-v-ukrajini-yakiy-kurs-dolara-na-sogodni-v-ukrajini-v-obminnikah-13218660.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Курс долара і євро в Україні 7 грудня: скільки коштуватиме валюта сьогодні",
+        "ukr_title": "Курс долара і євро в Україні 7 грудня: скільки коштуватиме валюта сьогодні"
+    },
+    {
         "title": "7 грудня: церковне свято сьогодні, що не можна робити, щоб не накликати біду",
         "link": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-7-grudnya-2025-roku-zaboroni-zvichaji-ta-prikmeti-13216998.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -64,28 +80,36 @@
         "ukr_title": "Українці позбавили західних військових купи небезпечних ілюзій, - британський інструктор"
     },
     {
-        "title": "Лише четвертий випадок за останні 40 років: у морі помітили семирукого восьминога",
-        "link": "https://www.unian.ua/curiosities/semirukiy-vosminig-vcheni-zafiksuvali-nezvichaynu-tvarinu-13218879.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Лише четвертий випадок за останні 40 років: у морі помітили семирукого восьминога",
-        "ukr_title": "Лише четвертий випадок за останні 40 років: у морі помітили семирукого восьминога"
-    },
-    {
-        "title": "В Україні настає красиве свято: що мають робити дівчата 7 грудня 2025",
-        "link": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-7-dekabrya-2025-primety-tradicii-zaprety-13211850.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "В Україні настає красиве свято: що мають робити дівчата 7 грудня 2025",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Zelensky signals progress in talks with US on peace plan",
+        "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
         "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Ukrainian President says he had a \"very constructive\" phone call with Donald Trump's peace envoy, Steve Witkoff, and Jared Kushner. Zelensky said they discussed how to ensure that Russia stuck to any potential deal to",
-        "ukr_title": "Український президент каже, що йому подзвонили \"дуже конструктивний\" дзвінок з посланцем Дональда Трампа, Стівом Віткоффом, і Джередом Кушніром."
+        "generated_title": "Ukrainian President Volodymyr Zelensky said he had a \"very constructive\" phone call with Donald Trump's negotiating team. He said he was \"determined\" to continue working with the US after three days of talks",
+        "ukr_title": "Український президент Володимир Зеленський сказав, що у нього \"дуже конструктивний\" дзвінок з командою Дональда Трампа."
+    },
+    {
+        "title": "Staff and tourists among 25 killed in Goa nightclub fire",
+        "link": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "The majority of victims are believed to be staff at the club in Arpora, North Goa. Police believe a gas cylinder exploded in the club's kitchen, causing the blaze.",
+        "ukr_title": "Вважають, що більшість жертв - це працівники клубу в Арфорі (Північна Гоа), а поліція вважає, що газовий циліндр вибухнув у кухні клубу, спричиняючи пожежу."
+    },
+    {
+        "title": "Death toll from devastating Indonesia floods passes 900",
+        "link": "https://www.bbc.com/news/articles/cqjgydnwxrpo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "More than 100,000 homes were destroyed when a rare and powerful cyclone formed over the Malaca Strait last week. Survivors described villages being entirely swept away by fast-moving deluges.",
+        "ukr_title": "Понад 100 000 будинків було зруйновано, коли минулого тижня через Малаку протоку утворився рідкісний і потужний циклон."
+    },
+    {
+        "title": "Hong Kong to vote in election as city mourns deadly fire",
+        "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "The government has mounted a huge campaign to encourage Hongkongers to choose members of the Legislative Council. All of the candidates have been vetted to ensure they are loyal to China. The election takes place as many are mourning the Tai Po",
+        "ukr_title": "Уряд розпочав грандіозну кампанію, щоб заохотити гонконгерів обирати членів Ради з питань законодавства. Усіх кандидатів перевірили, чи вони віддані Китаї. Вибори проводяться зі сумом за Тай По."
     },
     {
         "title": "Deadly attack on kindergarten reported in Sudan",
@@ -94,29 +118,5 @@
         "lang": "en",
         "generated_title": "The Rapid Support Forces (RSF) is accused of the attack on the town of Kalogi. A medical organisation, the Sudan Doctors' Network, and the army claim responsibility. Unicef: \"Killing children in their",
         "ukr_title": "Силу швидкої підтримки (RSF) звинувачують у нападі на місто Калогі."
-    },
-    {
-        "title": "'We've lost everything': Australia wildfire rips through homes",
-        "link": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "The blaze broke out in the town of Koolewong, New South Wales. Scores of wildfires are burning across the state, fuelled by soaring temperatures.",
-        "ukr_title": "У місті Кулеонґ (Новий Південний Уельс) спалахнула пожежа, яка розпалилася через підвищення температури."
-    },
-    {
-        "title": "Iran arrests marathon organisers over women not wearing hijab",
-        "link": "https://www.bbc.com/news/articles/c3e0z97qn3eo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Two thousand women and 3,000 men took part in the marathon on Kish Island. Some of the women competitors were clearly not wearing the hijab or any other head covering.",
-        "ukr_title": "Очевидно, деякі жінки - конкуренти не носили гіябу чи будь - якого іншого покриву на голові."
-    },
-    {
-        "title": "Americans to get free entry to parks on Trump's birthday",
-        "link": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "The US National Park Service is removing Martin Luther King Jr Day and Juneteenth from its list of fee-free entrance days. The move is part of President Donald Trump's \"modernisation\" of the park service. Beginning in 2026",
-        "ukr_title": "Служба національних парків США вилучає Мартіна Лютера Кінга Молодшого та Джунтєта зі списку вступних днів без платних плат. Цей крок є частиною \" модернізації \" Президента Дональда Трампа з служби парку. Починаючи з 2026 року."
     }
 ]

@@ -40,6 +40,22 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Можливі причини, через які ваш пристрій на USB-С раптом перестав заряджатися",
+        "link": "https://www.unian.ua/curiosities/shcho-robiti-yakshcho-zaryadka-type-c-ne-zaryadzhaye-chomu-miy-telefon-ne-zaryadzhayetsya-cherez-usb-c-13219515.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Можливі причини, через які ваш пристрій на USB-С раптом перестав заряджатися",
+        "ukr_title": "Можливі причини, через які ваш пристрій на USB-С раптом перестав заряджатися"
+    },
+    {
+        "title": "Війська Ірану отримали на озброєння новий безпілотник Hadid-110",
+        "link": "https://www.unian.ua/weapons/hadid-110-iran-rozrobiv-dron-specialno-dlya-udarnih-misiy-13219662.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "Війська Ірану отримали на озброєння новий безпілотник Hadid-110",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
         "title": "Італія надасть обладнання для підтримки енергетичної інфраструктури України, - Зеленський",
         "link": "https://www.unian.ua/economics/energetics/vidklyuchennya-svitla-v-ukrajini-italiya-nadsilaye-obladnannya-13219656.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -62,22 +78,6 @@
         "lang": "mk",
         "generated_title": "Угорщина та Словаччина збираються оскаржити план ЄС проти енергоносіїв з Росії",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
-    },
-    {
-        "title": "У Польщі зросла кількість прихильників обов'язкової військової служби, - опитування",
-        "link": "https://www.unian.ua/world/polshcha-opituvannya-pokazalo-rist-prihilnikiv-sluzhbi-v-armiji-sered-polyakiv-13219638.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "У Польщі зросла кількість прихильників обов'язкової військової служби, - опитування",
-        "ukr_title": "У Польщі зросла кількість прихильників обов'язкової військової служби, - опитування"
-    },
-    {
-        "title": "Нідерланди піднімали в небо винищувачі F-35 через невідомий дрон",
-        "link": "https://www.unian.ua/world/ataki-droniv-na-yevropu-u-niderlandah-pidnimali-v-povitrya-vinishchuvach-f-35-cherez-nevidomiy-ob-yekt-13219626.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Нідерланди піднімали в небо винищувачі F-35 через невідомий дрон",
-        "ukr_title": "Нідерланди піднімали в небо винищувачі F-35 через невідомий дрон"
     },
     {
         "title": "New US security strategy aligns with Russia's vision, Moscow says",
@@ -104,19 +104,19 @@
         "ukr_title": "За словами поліції, четверо членів тієї самої сім'ї Делі та 21 персонал загинули, чотирьох заарештували, у тому числі менеджера нічного клубу."
     },
     {
+        "title": "Death of Venezuelan opposition figure in custody 'vile', US says",
+        "link": "https://www.bbc.com/news/articles/czj0m2evm40o?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Alfredo Díaz died in his prison cell at the El Helicoide prison in Caracas. The Venezuelan government said the 56-year-old showed signs of a heart attack. The US State Department's Bureau of Western",
+        "ukr_title": "Уряд Венесуели сказав, що 56-річний підліток має ознаки серцевого приступу."
+    },
+    {
         "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude",
         "link": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Kremenchuk, a major industrial hub in central Ukraine, has been repeatedly struck. No deaths have been confirmed so far. Russia said it had shot down 77 Ukrainian drones in several locations.",
         "ukr_title": "Росія не підтвердила, що вона збила 77 українських дронів у кількох місцях."
-    },
-    {
-        "title": "Hong Kong votes in election as city mourns deadly fire",
-        "link": "https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Voter turnout was 31.9%, according to the city's electoral office. The last election in 2021 saw the administrative region's lowest-ever turnout of 30% amid widespread voter apathy.",
-        "ukr_title": "Під час останніх виборів 2021 року було випущено 30% з найменшої кількості голосів серед повсюдної апатії виборців."
     }
 ]

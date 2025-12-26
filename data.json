@@ -40,6 +40,22 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Android-смартфон став розряджатися швидше? Перевірте один популярний додаток",
+        "link": "https://www.unian.ua/techno/gadgets/telefon-stav-shvidko-rozryadzhatisya-eksperti-znayshli-golovnogo-pozhiracha-zaryadu-13238109.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Android-смартфон став розряджатися швидше? Перевірте один популярний додаток",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Помер гітарист легендарної британської рок-групи The Cure",
+        "link": "https://www.unian.ua/lite/music/the-cure-u-vici-65-rokiv-ne-stalo-gitarista-perri-bamonte-13238295.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "Помер гітарист легендарної британської рок-групи The Cure",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
         "title": "Україна та Молдова домовилися про альтернативні шляхи сполучення, - Качка",
         "link": "https://www.unian.ua/economics/transport/mist-mayaki-ukrajina-ta-moldova-domovilisya-pro-alternativni-marshruti-novini-odesi-13238289.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -62,22 +78,6 @@
         "lang": "uk",
         "generated_title": "Поки Путін зазнає фіаско, Зеленський може розіграти свою козирну карту, - The Telegraph",
         "ukr_title": "Поки Путін зазнає фіаско, Зеленський може розіграти свою козирну карту, - The Telegraph"
-    },
-    {
-        "title": "Вивезення жителів Грабовського на Сумщині: РФ надала список громадян Україні",
-        "link": "https://www.unian.ua/war/grabovske-rosiya-nadala-spisok-vikradenih-gromadyan-13238271.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "mk",
-        "generated_title": "Вивезення жителів Грабовського на Сумщині: РФ надала список громадян Україні",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
-    },
-    {
-        "title": "Якщо у вас застарілий 2.4 ГГц роутер, саме час оновитися – і ось чому",
-        "link": "https://www.unian.ua/techno/gadgets/yakiy-router-kupiti-u-2026-eksperti-radyat-vidmovitisya-vid-2-4-zaradi-5-ggc-13237971.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Якщо у вас застарілий 2.4 ГГц роутер, саме час оновитися – і ось чому",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Zelensky plans to meet Trump on Sunday for talks on ending Russian war",
@@ -108,8 +108,8 @@
         "link": "https://www.bbc.com/news/articles/c9d9znp22pyo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Two people have been killed in what police say was a \"rolling terror attack\" The attacker ran over a pedestrian in the eastern city of Beit Shean. He then drove on before stabbing a woman near Ein Harod, about",
-        "ukr_title": "Двое людей погибли в том, что полиция сказала, что это \"революционная террористическая атака,\" нападающий проехал на пішохода в Восточном городе Бейт Шеан."
+        "generated_title": "Shimshon Mordechai, 68, was killed and a 16-year-old boy was hurt in Friday's ramming. Aviv Maor, 18, was stabbed to death near Ein Harod in northern Israel.",
+        "ukr_title": "Вісімдесятирічний Шімшон Мордехай був убитий, а 16-річний хлопчик поранився у п'ятницю під час перестрілки."
     },
     {
         "title": "Thailand bombs Cambodian border area as ceasefire talks continue",

@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Найнадійніші німецькі кросовери: експерти назвали 5 \"невбиваних\" моделей",
+        "link": "https://www.unian.ua/economics/auto/naynadiynishi-nimecki-avtomobili-viznacheno-naykrashchi-krosoveri-13238985.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "ru",
+        "generated_title": "Найнадійніші німецькі кросовери: експерти назвали 5 \"невбиваних\" моделей",
+        "ukr_title": "Найнадійнiшi нiмецькi кросоверi.експерти назвали 5 \"невбивані\" моделі"
+    },
+    {
+        "title": "В Україні оголосили попередження про серйозну негоду: до чого готуватися",
+        "link": "https://www.unian.ua/pogoda/news/pogoda-v-ukrajini-28-grudnya-ogolosheno-poperedzhennya-cherez-skladni-pogodni-umovi-13239072.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "В Україні оголосили попередження про серйозну негоду: до чого готуватися",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "У Польщі в моторошній ДТП, попередньо, загинули пʼятеро українців",
+        "link": "https://www.unian.ua/incidents/ukrajinci-v-polshchi-u-motoroshniy-dtp-poperedno-zaginuli-5-gromadyan-ukrajini-13239066.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "У Польщі в моторошній ДТП, попередньо, загинули пʼятеро українців",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
         "title": "Атмосферні потоки шкидко змінюють положення, це вплине на весь світ, - вчені",
         "link": "https://www.unian.ua/science/globalne-poteplinnya-atmosferni-richki-zminili-polozhennya-13238937.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -53,30 +77,6 @@
         "source": "https://rss.unian.net/site/news_ukr.rss",
         "lang": "bg",
         "generated_title": "Буданов пояснив, чому у США націлилися на зближення з Росією",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Командувач Нацгвардії розповів про реальну обстановку в Покровську",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-komanduvach-nacgvardiji-pivnenko-rozpoviv-pro-situaciyu-v-pokrovsku-13239048.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Командувач Нацгвардії розповів про реальну обстановку в Покровську",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Все вирішиться за рік-півтора: Дикий назвав два сценарії закінчення війни",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-yevgen-dikiy-ozvuchiv-dva-scenariji-zakinchennya-viyni-13239042.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Все вирішиться за рік-півтора: Дикий назвав два сценарії закінчення війни",
-        "ukr_title": "Все вирішиться за рік-півтора: Дикий назвав два сценарії закінчення війни"
-    },
-    {
-        "title": "Помер легендарний ведучий програми \"Еники-беники\" Анатолій Суханов",
-        "link": "https://www.unian.ua/lite/stars/anatoliy-suhanov-pomer-legendarniy-veduchiy-pishov-z-zhittya-u-54-roki-13239036.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Помер легендарний ведучий програми \"Еники-беники\" Анатолій Суханов",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
@@ -100,8 +100,8 @@
         "link": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "New York City's Central Park recorded 4.3in of snow, its highest since January 2022. New York Governor Kathy Hochul declared a state of emergency for more than half of counties in the state. Nearly 700 domestic flights were",
-        "ukr_title": "Центральний парк Нью - Йорка зафіксував 4,3 дюйма снігу, найвищого його рівня з січня 2022 року."
+        "generated_title": "New York has seen its heaviest snowfall in nearly four years. The state has declared a state of emergency for more than half the state.",
+        "ukr_title": "Нью - Йорк вже майже чотири роки бачив найтяжчий сніг."
     },
     {
         "title": "Nine arrested in Italy for allegedly raising millions for Hamas",

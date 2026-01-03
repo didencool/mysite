@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "\"Путіна скинуть із п'єдесталу\": у The Telegraph назвали найгірший сценарій мирного плану для РФ",
+        "link": "https://www.unian.ua/world/viyna-v-ukrajini-the-telegraph-nazvav-naygirshiy-scenariy-mirnogo-planu-dlya-putina-13244391.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "\"Путіна скинуть із п'єдесталу\": у The Telegraph назвали найгірший сценарій мирного плану для РФ",
+        "ukr_title": "\"Путіна скинуть із п'єдесталу\": у The Telegraph назвали найгірший сценарій мирного плану для РФ"
+    },
+    {
+        "title": "На дні Середземного моря знайшли \"капсулу часу\" - неушкоджений вантаж торгівельного судна",
+        "link": "https://www.unian.ua/curiosities/zatonuli-korabli-sudno-na-dni-seredzemnogo-morya-zminilo-uyavlennya-pro-torgivlyu-epohi-vidrodzhennya-13244355.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "На дні Середземного моря знайшли \"капсулу часу\" - неушкоджений вантаж торгівельного судна",
+        "ukr_title": "На дні Середземного моря знайшли \"капсулу часу\" - неушкоджений вантаж торгівельного судна"
+    },
+    {
+        "title": "3 січня по Землі вдарить сильна магнітна буря",
+        "link": "https://www.unian.ua/pogoda/news/magnitni-buri-3-sichnya-vdaryat-po-zemli-z-novoyu-siloyu-13243830.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "3 січня по Землі вдарить сильна магнітна буря",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
         "title": "Українців попередили про спекуляції з євро: курс валют сьогодні",
         "link": "https://www.unian.ua/economics/finance/kurs-dolara-v-ukrajini-yakiy-kurs-dolara-v-bankah-ukrajini-sogodni-3-sichnya-13244331.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -54,30 +78,6 @@
         "lang": "uk",
         "generated_title": "Історичні запаси білого водню можуть відродити \"золоту лихоманку\" у США",
         "ukr_title": "Історичні запаси білого водню можуть відродити \"золоту лихоманку\" у США"
-    },
-    {
-        "title": "3 січня: церковне свято сьогодні, що потрібно приготувати на щастя",
-        "link": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-3-sichnya-2026-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13242705.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "3 січня: церковне свято сьогодні, що потрібно приготувати на щастя",
-        "ukr_title": "3 сичня: церковне свято свято соногодні, що потрібно приготуваті на щастя"
-    },
-    {
-        "title": "Як почистити деко для духовки без агресивної хімії: три нових методи",
-        "link": "https://www.unian.ua/curiosities/yak-ochistiti-deko-vid-nagaru-tri-metodi-pochistiti-deko-bez-agresivnoji-himiji-13244322.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Як почистити деко для духовки без агресивної хімії: три нових методи",
-        "ukr_title": "Як почистити деко для духовки без агресивної хімії: три нових методи"
-    },
-    {
-        "title": "Чому сьогодні небезпечний день: як у свято 3 січня не накликати неприємностей",
-        "link": "https://www.unian.ua/lite/holidays/kakoy-segodnya-prazdnik-3-yanvarya-2026-primety-tradicii-zaprety-13243287.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Чому сьогодні небезпечний день: як у свято 3 січня не накликати неприємностей",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Swiss bar fire likely started by sparklers on champagne bottles",
@@ -96,12 +96,20 @@
         "ukr_title": "Сім'ї підлітків, яких не було в барі у швейцарському лижному курорті, зіткнулися з агоністичним очікуванням новин, ймовірно, що пожежа у Кранс-Мантані була викликана блискавцями, які розміщувалися на пляшках шампанського, що прийшло."
     },
     {
-        "title": "Trump warns US will intervene if Iran kills protesters",
-        "link": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump promise to intervene over Iran protests 'reckless' says foreign minister",
+        "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "US President Donald Trump warns Iran's authorities against killing protesters. He says Washington \"will come to their rescue\" but gives no further details. Senior adviser to Iran's Supreme Leader Ayatollah Ali Khamenei responds by saying Trump should \"",
-        "ukr_title": "Президент США Дональд Трамп попереджає власті Ірану, щоб не вбивати протестуючих."
+        "generated_title": "Two people have been killed in clashes between protesters and police in Tehran.",
+        "ukr_title": "Двох людей було вбито в сутичках між протестуючими і поліцією в Тегерані."
+    },
+    {
+        "title": "Missile attack on Kharkiv kills two, including child, say Ukraine authorities",
+        "link": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Two people, one of them a three-year-old child, killed in Russian strike on Kharkiv. 28 injured, including a six-month-old baby, 16 of whom have been taken to hospital. Russian Defence Ministry",
+        "ukr_title": "Двоє людей, одна з них трирічна дитина, загинула під час російського страйку на Харкові. 28 поранених, включаючи шестимісячну дитину, 16 з яких були забрані до лікарні."
     },
     {
         "title": "Zelensky names spy chief to head presidential office after corruption row",
@@ -110,13 +118,5 @@
         "lang": "en",
         "generated_title": "Ukrainian President Volodymyr Zelensky names spy chief Kyrylo Budanov as his new chief of staff. His previous top aide resigned amid a corruption row just over a month ago.",
         "ukr_title": "Український президент Володимир Зеленський називає керівника поліції Кіріло Буданов."
-    },
-    {
-        "title": "Two people killed in magnitude 6.5 earthquake in Mexico",
-        "link": "https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "6.5-magnitude earthquake hit southern and central Mexico on Friday. Epicentre was near popular tourist town of Acapulco in southwestern state of Guerrero. Mexico City mayor Clara Brugada said 12 people were injured",
-        "ukr_title": "У п'ятницю на Південь і центральну частину Мексики стався землетрус, який стався неподалік популярного туристичного містечка Акапулько, що на південному заході штату Герреро."
     }
 ]

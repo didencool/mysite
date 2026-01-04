@@ -32,12 +32,28 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
-        "title": "Venezuelan leader Maduro arrives in New York, news outlets report - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2o4SEF5UFFiTVllbG5WRFVkMGFCQ3VWNVBOLTN4ejU3VnIxZU45c1ZiOEdSZ1pNRzdVcGdhT2RBMEttOF80MGZLRFMxbnRpUmFSalk4QVdpRWZ3VFpHbE1TZDdQcUtnT1FDUzZ3YjRpeUQ0Y1FwempoOTJfT0ExcVJCbjJNTlU0d2hFWTFIRE5kcjRBU2MzMGcwSnF0YlZWQkZvRG5KOFd1Y3Q0X05WcnZR?oc=5",
+        "title": "Britain says it and France bombed suspected Islamic State arms dump in Syria - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTRPcWFJTW1xaU5oUE9tbDhET2RyYWo0Tkg2X2ptOEZXdkpwbUpRM2tDdTh0aEVqV3N2SDVHV2l0S2c3T184TVZnQWtCVGJHWlItRHBhV1VnV1hGS2EwUjRjNzl5MnpnT2dvb2pkZ2FuUG1kVi1uNWJqNzFhNUllUDhrNE5rMnhzLWVQdHNJeDVNeE5hUk9TcDM0ZTE2QUhOYWZEUkw2YUk?oc=5",
         "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
         "lang": "unknown",
-        "generated_title": "Venezuelan leader Maduro arrives in New York, news outlets report - Reuters",
+        "generated_title": "Britain says it and France bombed suspected Islamic State arms dump in Syria - Reuters",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+    },
+    {
+        "title": "Верховний суд призначив виконувачку обов'язків президента Венесуели",
+        "link": "https://www.unian.ua/world/venesuela-verhovniy-sud-priznachiv-vikonuvacha-obov-yazkiv-prezidenta-13245147.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Верховний суд призначив виконувачку обов'язків президента Венесуели",
+        "ukr_title": "Верховний суд призначив виконувачку обов'язків президента Венесуели"
+    },
+    {
+        "title": "Чи будуть сильні магнітні бурі 4 січня: прогноз учених",
+        "link": "https://www.unian.ua/pogoda/news/magnitni-buri-4-sichnya-2026-roku-chi-bude-shtorm-sogodni-13244715.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Чи будуть сильні магнітні бурі 4 січня: прогноз учених",
+        "ukr_title": "Чи будуть сильні магнітні бурі 4 січня: прогноз учених"
     },
     {
         "title": "Як какао та гарячий шоколад впливають на кровʼяний тиск: вчені розкрили головні переваги",
@@ -64,22 +80,6 @@
         "ukr_title": "Курс валют 4 січня: скільки коштує долар і євро в Україні сьогодні"
     },
     {
-        "title": "4 січня: Собор 70-ти апостолів - головна заборона цього дня",
-        "link": "https://www.unian.ua/lite/holidays/yake-sogodni-cerkovne-svyato-4-sichnya-2026-roku-zaboroni-zvichaji-ta-prikmeti-dnya-13244631.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "4 січня: Собор 70-ти апостолів - головна заборона цього дня",
-        "ukr_title": "4 січня: Збір 70-ти апостолів - голова паркану цього дня"
-    },
-    {
-        "title": "Ваш особистий календар удачі на 2026 рік: найкращі місяці для кожного числа життєвого шляху",
-        "link": "https://www.unian.ua/curiosities/osobiste-zhittya-za-datoyu-narodzhennya-yaki-misyaci-2026-roku-budut-vashimi-13245102.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Ваш особистий календар удачі на 2026 рік: найкращі місяці для кожного числа життєвого шляху",
-        "ukr_title": "Ваш особистий календар удачі на 2026 рік: найкращі місяці для кожного числа життєвого шляху"
-    },
-    {
         "title": "Spies, drones and blowtorches: How the US captured Maduro",
         "link": "https://www.bbc.com/news/articles/cdred61epg4o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -92,8 +92,8 @@
         "link": "https://www.bbc.com/news/articles/czx1rpxzyx9o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "Venezuela's president and his wife have been removed from the country. The move is described as a \"flagrant violation of the country's sovereignty\" by the U.S.",
-        "ukr_title": "Цей переїзд названо \" неослабним порушенням суверенітету країни \" США."
+        "generated_title": "Venezuelan President Nicolas Maduro has been removed from office. He is accused of using force against his country's sovereignty.",
+        "ukr_title": "Венесуельський президент Ніколас Мадуро був усунуто з посади, його звинувачують у тому, що він використовує силу проти суверенітету своєї країни."
     },
     {
         "title": "'A long road ahead': Venezuelans react to Maduro's arrest with hope and worry",

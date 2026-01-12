@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Вбиває здобич довжиною до метра і вагою, що в 355 разів перевищує його власну: що це за смертоносний хижак",
+        "link": "https://www.unian.ua/curiosities/vbivaye-zdobich-dovzhinoyu-do-metra-i-vagoyu-shcho-v-355-raziv-perevishchuye-yogo-vlasnu-shcho-ce-za-smertonosniy-hizhak-13253307.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Вбиває здобич довжиною до метра і вагою, що в 355 разів перевищує його власну: що це за смертоносний хижак",
+        "ukr_title": "Вбиває здобич довжиною до метра і вагою, що в 355 разів перевищує його власну: що це за смертоносний хижак"
+    },
+    {
+        "title": "До Конгресу США внесли законопроєкт про \"анексію\" Гренландії",
+        "link": "https://www.unian.ua/world/do-kongresu-ssha-vnesli-zakonoproyekt-pro-aneksiyu-grenlandiji-13253640.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "До Конгресу США внесли законопроєкт про \"анексію\" Гренландії",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "ЄС може запровадити нові санкції проти Ірану, - Politico",
+        "link": "https://www.unian.ua/world/iran-yevrosoyuz-mozhe-vvesti-dodatkovi-sankciji-13253637.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "ЄС може запровадити нові санкції проти Ірану, - Politico",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
         "title": "Завтра в Україні вимикатимуть світло: якими будуть графіки відключень 13 січня",
         "link": "https://www.unian.ua/economics/energetics/vidklyuchennya-svitla-v-ukrajini-yakimi-budut-grafiki-13-sichnya-13253439.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -54,30 +78,6 @@
         "lang": "bg",
         "generated_title": "Британія знайшла підстави для захоплення сотень кораблів тіньового флоту РФ, - The Times",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "У Британії назвали головну умову для відправки своїх військ в Україну",
-        "link": "https://www.unian.ua/world/mirotvorci-v-ukrajini-u-britaniji-nazvali-golovnu-umovu-dlya-vidpravki-viysk-13253622.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "У Британії назвали головну умову для відправки своїх військ в Україну",
-        "ukr_title": "У Британії назвали головну умову для відправки своїх військ в Україну"
-    },
-    {
-        "title": "Як перевірити яйця на свіжість вдома: простий лайфхак з ліхтариком",
-        "link": "https://www.unian.ua/curiosities/yak-zrozumiti-chi-zipsuvalisya-yaycya-prostiy-layfhak-13253316.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Як перевірити яйця на свіжість вдома: простий лайфхак з ліхтариком",
-        "ukr_title": "Як перевірити яйця на свіжість вдома: простий лайфхак з ліхтариком"
-    },
-    {
-        "title": "\"Мілітаризм та російський шовінізм\": в NYT розповіли, про освіту українців в окупації",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-rosiya-znishchuye-identichnist-ukrajinskih-ditey-na-okupovanih-teritoriyah-13253619.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "mk",
-        "generated_title": "\"Мілітаризм та російський шовінізм\": в NYT розповіли, про освіту українців в окупації",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
     },
     {
         "title": "'They just kept killing': Eyewitnesses describe deadly crackdown in Iran",
@@ -96,6 +96,14 @@
         "ukr_title": "Тренер Амір Мохаммед Кохкан, 26 лет, был ранен живым патроном 3 січнев во время протестов в Неириз."
     },
     {
+        "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+        "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Venezuelan opposition leader María Corina Machado will meet President Donald Trump. The visit comes just weeks after Venezuelan President Nicolás Maduro was seized in Caracas by US forces. Trump declined to endorse Machado, whose movement claimed",
+        "ukr_title": "Венесуельський провідник опозиції Марії Коріна Мачадо зустрінеться з президентом Дональдом Трампом. якого рух заявив Мачадо."
+    },
+    {
         "title": "Former Fed chairs condemn criminal investigation into Jerome Powell",
         "link": "https://www.bbc.com/news/articles/c394xwdve9lo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -110,13 +118,5 @@
         "lang": "en",
         "generated_title": "Rosita Mabuiango died after a long illness, her sister tells the BBC. She was born in a tree during the 2000 floods in Mozambique. Hundreds of thousands of people were forced from their homes.",
         "ukr_title": "Розіта Мабуїанго померла після довгої хвороби, і її сестра розповіла Бі - Бі - Сі, що народилася 2000 року на дереві під час повеней у Мозамбіку."
-    },
-    {
-        "title": "Custody extended for owner of Swiss ski bar after deadly fire",
-        "link": "https://www.bbc.com/news/articles/c1klvp4v8vjo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Jacques Moretti and his wife Jessica are suspected of manslaughter by negligence, bodily harm by negligence and arson by negligence. The blaze at Le Constellation bar in Crans-Montana also left 116 people injured.",
-        "ukr_title": "Жак Моретті та його дружина Джессіка підозрюють у вбивстві через недбалість, фізичну шкоду через недбалість та підпал через недбалість."
     }
 ]

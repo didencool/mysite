@@ -40,6 +40,22 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Є прогрес у військовому блоці: ЗМІ дізналися деталі тристоронніх переговорів в Абу-Дабі",
+        "link": "https://www.unian.ua/world/ye-progres-u-viyskovomu-bloci-zmi-diznalisya-detali-tristoronnih-peregovoriv-v-abu-dabi-13265538.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Є прогрес у військовому блоці: ЗМІ дізналися деталі тристоронніх переговорів в Абу-Дабі",
+        "ukr_title": "Є прогрес у військовому блоці: ЗМІ дізналися деталі тристоронніх переговорів в Абу-Дабі"
+    },
+    {
+        "title": "Обманює смерть: ця змія може замерзнути та \"воскреснути\"",
+        "link": "https://www.unian.ua/curiosities/obmanyuye-smert-cya-zmiya-mozhe-zamerznuti-ta-voskresnuti-13265127.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "Обманює смерть: ця змія може замерзнути та \"воскреснути\"",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
         "title": "У РФ повністю закінчилися сучасні танки на складах, - OSINT-аналітик",
         "link": "https://www.unian.ua/weapons/vtrati-rosiji-v-ukrajini-prizveli-do-povnogo-vicherpannya-zapasiv-tankiv-na-skladah-13265526.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -64,22 +80,6 @@
         "ukr_title": "Графіки відключень електроенергії: коли не буде світла 25 січня"
     },
     {
-        "title": "Їх варто уникати: експерти назвали 6 найгірших електромобілів для покупки в 2026 році",
-        "link": "https://www.unian.ua/economics/auto/yaki-avto-ne-varto-kupuvati-nazvano-naygirshi-elektromobili-13265166.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Їх варто уникати: експерти назвали 6 найгірших електромобілів для покупки в 2026 році",
-        "ukr_title": "Їх варто уникати: експерти назвали 6 найгірших електромобілів для покупки в 2026 році"
-    },
-    {
-        "title": "\"Місто звільнене - це однозначно\": Тимочко розповів про зачистку Куп'янська від росіян",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-timochko-rozpoviv-pro-zachistku-kup-yanska-13265487.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "\"Місто звільнене - це однозначно\": Тимочко розповів про зачистку Куп'янська від росіян",
-        "ukr_title": "\"Місто звільнене - це однозначно\": Тимочко розповів про зачистку Куп'янська від росіян"
-    },
-    {
         "title": "Trump threatens Canada with 100% tariffs over China trade deal",
         "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -88,20 +88,20 @@
         "ukr_title": "Президент США Дональд Трамп погрожував набити на 100% тариф на всі канадські товари, якщо прем'єр-міністр країни укладе угоду з Китаєм."
     },
     {
+        "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+        "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "President of the United States, Donald Trump, made the comments on Thursday. He was responding to criticism over the withdrawal of US troops from Afghanistan.",
+        "ukr_title": "Президент Сполучених Штатів, Дональд Трамп, сказав у четвер, що він відповідає на критику за відставку американських військ з Афганістану."
+    },
+    {
         "title": "Two days of peace talks end as Russia continues Ukraine attacks",
         "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Ukrainian President Volodymyr Zelensky raised the possibility of a second meeting as early as next week. Meeting concluded after waves of Russian strikes killed one person and injured 35 others.",
         "ukr_title": "Український президент Володимир Зеленський підніс на наступний тиждень можливість другої зустрічі."
-    },
-    {
-        "title": "How Soviet urban planning is helping Russia freeze Ukraine",
-        "link": "https://www.bbc.com/news/articles/c338jpk8r1vo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Russia has been attacking energy infrastructure in Ukraine. The capital, Kyiv, is the main target of such attacks. Almost 6,000 apartment blocks were left without heating on 24 January.",
-        "ukr_title": "Столиця Київ є головною мішенню таких атак. 24 січня було залишено майже 6000 апартаментів без нагрівання."
     },
     {
         "title": "China places highest-ranking general under investigation",

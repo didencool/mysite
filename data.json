@@ -32,12 +32,44 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
-        "title": "Airlines reroute, cancel flights as tensions ramp up over Iran - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzlYVkNJVGQ3a292OWtMMG0wOU02bnZlajQ5YkwyM1lPa3NxcDVqNnJzQlB0b1dsWDVnSDRvOVdmRmdXZDA4ekVWejJzNzQyVnB4LUlQVXViVlJTN1Z5ZjZLNTExOHpPU2VuSkZIcXBpRlRma09PbGFBTC1oOHhpZTdzTlNrYTA0OGNfUndxekVkbUlfa3JyQ1dMbjBJWF9JbndpR3ZYRXlDeTIxWEt2aFU5ZFJ3RUxETlJIdDBR?oc=5",
+        "title": "From Greenland to Ukraine, Trump's centralized diplomacy creates whiplash for allies - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2JraFBoR2x1UHNIN3Q5V3hUZFlLMG5BTVN3OUlDVDd3LWQ2U0YzWDZxSmdwUmVtNmRGYkE1T0sxLWVyUTI4Q3AyclhYTTFxNFliWjNoeEpDZDdBMHprSWZraE1RWHgtZTRLbnZDM2ZHWXRxZEpKbTdBcGRYcVZtT0hIaXNoQzNiX0h1S3ItT2lwMDVHa0E3RjVQTjE3ei1EZDl4ZGJjWXZuempMVF80Sl9FakxJa29rUnlZ?oc=5",
         "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
         "lang": "unknown",
-        "generated_title": "Airlines reroute, cancel flights as tensions ramp up over Iran - Reuters",
+        "generated_title": "From Greenland to Ukraine, Trump's centralized diplomacy creates whiplash for allies - Reuters",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+    },
+    {
+        "title": "Ворог постійно вчиться: командир бойової групи розповів, як діє РФ на сході",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-viyskoviy-rozpoviv-pro-taktiku-rf-na-fronti-13265610.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Ворог постійно вчиться: командир бойової групи розповів, як діє РФ на сході",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "13 диких куниць випустили у британському лісі: те, що сталося, здивувало вчених",
+        "link": "https://www.unian.ua/curiosities/lisova-kunicya-vcheni-planuyut-sformuvati-novu-populyaciyu-kunic-u-lisah-na-pivnochi-angliji-13265238.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "13 диких куниць випустили у британському лісі: те, що сталося, здивувало вчених",
+        "ukr_title": "13 диких куниць випустили у британському лісі: те, що сталося, здивувало вчених"
+    },
+    {
+        "title": "Плани України на членство в ЄС під загрозою через одну пропозицію Трампа, – The Telegraph",
+        "link": "https://www.unian.ua/world/donald-tramp-zaproponuvav-ukrajini-vilnu-torgivlyu-shcho-zashkodit-vstupu-v-yes-13265604.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Плани України на членство в ЄС під загрозою через одну пропозицію Трампа, – The Telegraph",
+        "ukr_title": "Плани України на членство в ЄС під загрозою через одну пропозицію Трампа, – The Telegraph"
+    },
+    {
+        "title": "Спецпосланець Трампа зробив заяву про тристоронні переговори в Абу-Дабі",
+        "link": "https://www.unian.ua/world/peregovori-v-abu-dabi-vitkoff-anonsuvav-nastupnu-zustrich-ssha-ukrajini-ta-rf-13265598.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Спецпосланець Трампа зробив заяву про тристоронні переговори в Абу-Дабі",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Графіки відключень електроенергії: коли не буде світла 25 січня",
@@ -46,38 +78,6 @@
         "lang": "uk",
         "generated_title": "Графіки відключень електроенергії: коли не буде світла 25 січня",
         "ukr_title": "Графіки відключень електроенергії: коли не буде світла 25 січня"
-    },
-    {
-        "title": "Російський Бєлгород частково занурився в темряву після серії вибухів",
-        "link": "https://www.unian.ua/war/byelgorod-obstril-pislya-vibuhiv-u-misti-chastkovo-zniklo-svitlo-13265592.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Російський Бєлгород частково занурився в темряву після серії вибухів",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Вчені були вражені, коли відкопали інструмент, якому 500 тисяч років: чим він виявився",
-        "link": "https://www.unian.ua/science/arheologichni-rozkopki-vcheni-viyavili-molotok-zi-slonovoji-kistki-13265181.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Вчені були вражені, коли відкопали інструмент, якому 500 тисяч років: чим він виявився",
-        "ukr_title": "Вчені були вражені, коли відкопали інструмент, якому 500 тисяч років: чим він виявився"
-    },
-    {
-        "title": "У київському ботсаду гине унікальна колекція рослин через відсутність опалення, - ЗМІ",
-        "link": "https://www.unian.ua/ecology/novini-kiyeva-cherez-vidsutnist-opalennya-v-kiyevi-giinut-roslini-v-botanichnomu-sadu-novini-kiyeva-13265586.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "У київському ботсаду гине унікальна колекція рослин через відсутність опалення, - ЗМІ",
-        "ukr_title": "У київському ботсаду гине унікальна колекція рослин через відсутність опалення, - ЗМІ"
-    },
-    {
-        "title": "В Індії зафіксували спалах небезпечного вірусу: немає ні вакцини, ні специфічного лікування",
-        "link": "https://www.unian.ua/health/virus-nipah-v-indiji-zafiksuvali-spalah-nebezpechnoji-infekciji-13265580.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "В Індії зафіксували спалах небезпечного вірусу: немає ні вакцини, ні специфічного лікування",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Trump threatens Canada with 100% tariffs over China trade deal",

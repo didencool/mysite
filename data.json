@@ -40,12 +40,36 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Цю теорію відкинули 15 разів: як одна жінка переписала історію походження життя",
+        "link": "https://www.unian.ua/science/yaki-ye-teoriji-pohodzhennya-zhittya-z-chogo-pochalosya-zhittya-na-zemli-13279668.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "ru",
+        "generated_title": "Цю теорію відкинули 15 разів: як одна жінка переписала історію походження життя",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
+    },
+    {
+        "title": "У Держпраці пояснили, чи можуть відмовити у роботі без військово-облікових документів",
+        "link": "https://www.unian.ua/society/robota-bez-viyskovogo-obliku-u-derzhpraci-poyasnili-chi-zakonna-vidmova-u-pracevlashtuvanni-13279848.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "У Держпраці пояснили, чи можуть відмовити у роботі без військово-облікових документів",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Графіки відключень світла на 8 лютого: коли не буде електроенергії у неділю",
+        "link": "https://www.unian.ua/economics/energetics/grafiki-vidklyuchennya-svitla-8-lyutogo-koli-ne-bude-elektroenergiji-13279752.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Графіки відключень світла на 8 лютого: коли не буде електроенергії у неділю",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
         "title": "Експерти вказали головну помилку, яку роблять усі при зарядці смартфона",
         "link": "https://www.unian.ua/techno/gadgets/yak-pravilno-zaryadzhati-smartfon-u-2026-roci-ce-naykrashchiy-sposib-zberegti-batareyu-13279476.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
+        "lang": "bg",
         "generated_title": "Експерти вказали головну помилку, яку роблять усі при зарядці смартфона",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Ситуація в Мирнограді погіршилася: речник УДА розкрив, що відбувається на Донеччині",
@@ -56,35 +80,19 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
-        "title": "Ризик залишитися без тепла: експерт пояснив, чому надія на ремонт ТЕЦ - це помилка",
-        "link": "https://www.unian.ua/economics/energetics/rizik-zalishitisya-bez-tepla-ekspert-poyasniv-chomu-nadiya-na-remont-tec-ce-pomilka-13279833.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "Ризик залишитися без тепла: експерт пояснив, чому надія на ремонт ТЕЦ - це помилка",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
-    },
-    {
-        "title": "Активність окупантів на фронті знизилася: командир екіпажу БПЛА пояснив, у чому причина",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-aktivnist-okupantiv-na-fronti-znizilasya-zayaviv-andriy-otchenash-13279830.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Активність окупантів на фронті знизилася: командир екіпажу БПЛА пояснив, у чому причина",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Вчені виявили мініатюрний ядерний реактор, який насправді не має існувати: що з ним не так",
-        "link": "https://www.unian.ua/science/uranova-ruda-vcheni-viyavili-miniatyurniy-yaderniy-reaktor-13279467.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Вчені виявили мініатюрний ядерний реактор, який насправді не має існувати: що з ним не так",
-        "ukr_title": "Вчені виявили мініатюрний ядерний реактор, який насправді не має існувати: що з ним не так"
-    },
-    {
         "title": "France investigates ex-minister Jack Lang over Epstein links",
         "link": "https://www.bbc.com/news/articles/crkrk567d7zo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "France investigates ex-minister Jack Lang over Epstein links",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
+    },
+    {
+        "title": "Japan votes in snap election as PM Takaichi takes a gamble",
+        "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Japan votes in snap election as PM Takaichi takes a gamble",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     },
     {
@@ -109,14 +117,6 @@
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Trump says he 'didn't see' part of video with racist clip depicting Obamas as apes",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
-    },
-    {
-        "title": "Alleged mastermind among four arrested after Pakistan mosque blast",
-        "link": "https://www.bbc.com/news/articles/cd6w69pj14xo?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Alleged mastermind among four arrested after Pakistan mosque blast",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     }
 ]

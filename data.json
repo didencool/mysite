@@ -32,12 +32,28 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
-        "title": "US FAA reopens El Paso airspace, says no threat to commercial aviation - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY3VJcVF4cnNOZVVldUptci1EY09QN0RFUFdZR2NfNnQycmRHZjNOOEpQSEVlaE5NZndPUkEwNlZvcE5WcE9EU0U5a0w5cko3eGtmSTJseUhqNEVMTG1CWjRZMlVXMExnekNqbnhjcHFBeUlPTDdSRC1GSGJudVZPaXVRV1BnaFRWczBSRS1kaWFEN2QtSmdiTENnQXJfSWxGQ1JtWFEtWWxHYXd5YkhEU0xwT0lpS0g0Zkc2NXpkOUJXSlgxYXlPRQ?oc=5",
+        "title": "Meta begins construction of $10 billion Indiana data center to boost AI capabilities - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1Rja21fN0czV2dFTUJfNHF4QmFoUmhHa1ZKSEhaNGlCTEtrRF8xMkVIdXBsSThVakN2SHVfb0ZCQk9nX01fOTg3MnhTM3oxTk9iSzNsN3dDUXlzRXNWV0w1djI2X1U1OU5VMFpuUGlXX3h2OUhGdWk5dVA2OU1wT0Vac292U2RzTXZlN2d2QnphNFZBTEM0LVNIX3dFN3ZkQl9tZkU4MlFEZTQtTGJMcjFOa2ZRdVEzaXVTT0pXUQ?oc=5",
         "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
         "lang": "unknown",
-        "generated_title": "US FAA reopens El Paso airspace, says no threat to commercial aviation - Reuters",
+        "generated_title": "Meta begins construction of $10 billion Indiana data center to boost AI capabilities - Reuters",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+    },
+    {
+        "title": "У Росії є два завдання: експерт спрогнозував, де ворог зосередить свій весняний наступ",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-seleznov-sprognozuvav-yakim-bude-vesnyaniy-nastup-rosiji-13283619.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "У Росії є два завдання: експерт спрогнозував, де ворог зосередить свій весняний наступ",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Втрата Покровська і Мирнограда – питання тижнів: експерт сказав, які міста охоплять бої далі",
+        "link": "https://www.unian.ua/war/viyna-v-ukrajini-ekspert-prognozuye-vtratu-pokrovska-i-mirnograda-ta-pochatok-bojiv-u-inshih-mistah-13283613.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Втрата Покровська і Мирнограда – питання тижнів: експерт сказав, які міста охоплять бої далі",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Важить до 30 кг і має діаметр півметра: яке найбільше насіння на планеті",
@@ -64,20 +80,12 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
-        "title": "З чим їсти вівсянку, щоб насититися: експерти назвали 8 смачних і корисних добавок",
-        "link": "https://www.unian.ua/curiosities/shcho-mozhna-jisti-z-vivsyankoyu-8-produktiv-yaki-peretvoryat-kashu-na-smachniy-i-korisniy-snidanok-13283394.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "З чим їсти вівсянку, щоб насититися: експерти назвали 8 смачних і корисних добавок",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Україна отримає \"недорогі\" гіперзвукові ракети: вже пройшли успішні випробування",
-        "link": "https://www.unian.ua/weapons/ukrajina-otrimaye-nedorogi-giperzvukovi-raketi-nightfall-13283586.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "Україна отримає \"недорогі\" гіперзвукові ракети: вже пройшли успішні випробування",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
+        "title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
+        "link": "https://www.bbc.com/news/articles/ce8w95knp55o?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Police identify 18-year-old as suspect in Tumbler Ridge shooting",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     },
     {
         "title": "'It was terrifying': Tumbler Ridge's tight-knit community in shock after shooting",
@@ -109,14 +117,6 @@
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Trump tells Netanyahu Iran nuclear talks must continue",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
-    },
-    {
-        "title": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
-        "link": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     }
 ]

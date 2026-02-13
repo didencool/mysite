@@ -16,6 +16,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Morning Bid: No longer the Apple of their eye - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIMHRyb0ZyVGhtTlljV0JBVmgzejBZekVDM2Vobll5V181QlA2YXdHaUY5YTR4SVdjSXJpeXVJbXlfLWpCWTFNMHJEcUt4b1BkRU5TMDFuWjNNMXotSW9QSjJTRHNHVm5feGZMSW1CVjNuRWpUM1N2elFyeVlSU1U?oc=5",
+        "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
+        "lang": "unknown",
+        "generated_title": "Morning Bid: No longer the Apple of their eye - Reuters",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
+    },
+    {
         "title": "BNP sweeps Bangladesh election, Tarique Rahman set to become PM - Reuters",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT09YcDJyNFh5amVXNjFVVjFzQWNNajcxUThHRGFIM1pUeWlNS1IzdVpXalhUdXh6azFWcjd3OVFqOV91cWZwQ2pBVjh3cm1sa2JrOUNpaS1iOUNIdlY0M3pBUkdaQmh3QThyM1Y2dEl3QXRIQTJybXFiN1ozMHF3UjNLUzR6aUFnUVhqX0xINzJKZGdKSDM1QjBNNm9RTi1peVE0ZHQ5NHRnQQ?oc=5",
         "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
@@ -32,51 +40,43 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
-        "title": "Top Goldman Sachs lawyer Ruemmler resigns after Epstein disclosures - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYm9kMlA1UXAycENFOGlDdUhOQmZyMWxjSndJeHVfNnBMMWw1NzU2cHJ3dFg5VlU0QXFrNFFpYUQ4dUxDaC1XTzJTTThWYmFfZ0pmVDQxb0ZFYlRsZHVuT2lmTm5LVlZtZ3EtdlVwb3A4Y2UzZWZzMno1Z3BGQ0c2VFB4SFlsVVR2cVBkMlA5dzYtZk1INmV4bWJoSEF4dVpCb2NIUTVEUnMzWWhZRWFZQ0tPbmE3VF9GdG5nOFpNT1JJREJNNzhacG1Ldm5abUk?oc=5",
-        "source": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
-        "lang": "unknown",
-        "generated_title": "Top Goldman Sachs lawyer Ruemmler resigns after Epstein disclosures - Reuters",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
-    },
-    {
-        "title": "Євро подешевшав наприкінці тижня: курс валют в Україні 13 лютого",
-        "link": "https://www.unian.ua/economics/finance/kurs-yevro-v-ukrajini-podeshevshav-banki-i-obminniki-vstanovili-noviy-kurs-valyut-13-lyutogo-13284969.html",
+        "title": "У \"ПриватБанку\" змінився курс валют: скільки коштують долар і євро сьогодні",
+        "link": "https://www.unian.ua/economics/finance/kurs-dolara-privatbank-zminiv-kurs-valyut-13-lyutogo-13285023.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
         "lang": "uk",
-        "generated_title": "Євро подешевшав наприкінці тижня: курс валют в Україні 13 лютого",
-        "ukr_title": "Євро подешевшав наприкінці тижня: курс валют в Україні 13 лютого"
+        "generated_title": "У \"ПриватБанку\" змінився курс валют: скільки коштують долар і євро сьогодні",
+        "ukr_title": "У \"ПриватБанку\" змінився курс валют: скільки коштують долар і євро сьогодні"
     },
     {
-        "title": "Без надії на прорив в Мюнхені: доля України висить на волосині, - Politico",
-        "link": "https://www.unian.ua/world/myunhenska-konferenciya-z-bezpeki-dolya-ukrajini-visit-na-volosini-politico-13284963.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "mk",
-        "generated_title": "Без надії на прорив в Мюнхені: доля України висить на волосині, - Politico",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
-    },
-    {
-        "title": "На узбережжі Одещини зафіксували блакитного \"прибульця\": раніше його тут не бачили",
-        "link": "https://www.unian.ua/ecology/odesa-na-uzberezhzhi-vpershe-pobachili-blakitnogo-kraba-novini-odesi-13284957.html",
+        "title": "РФ вдарила по півдню України: є руйнування енергетичної та портової інфраструктури",
+        "link": "https://www.unian.ua/war/rf-vdarila-po-pivdnyu-ukrajini-ye-ruynuvannya-energetichnoji-ta-portovoji-infrastrukturi-novini-odesi-13284915.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
         "lang": "bg",
-        "generated_title": "На узбережжі Одещини зафіксували блакитного \"прибульця\": раніше його тут не бачили",
+        "generated_title": "РФ вдарила по півдню України: є руйнування енергетичної та портової інфраструктури",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
-        "title": "Люди, які народилися в ці 3 дати, мають найдобріші душі",
-        "link": "https://www.unian.ua/curiosities/data-narodzhennya-numerologiya-koli-narodzhuyutsya-lyudi-z-naydobrishimi-dushami-13284849.html",
+        "title": "МОК вважає українських спортсменів перешкодою для російських, - правозахисники",
+        "link": "https://sport.unian.ua/geraskevich-pravozahisniki-zvinuvatili-mok-u-podviynih-standartah-na-korist-rf-13285017.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
         "lang": "uk",
-        "generated_title": "Люди, які народилися в ці 3 дати, мають найдобріші душі",
-        "ukr_title": "Люди, які народилися в ці 3 дати, мають найдобріші душі"
+        "generated_title": "МОК вважає українських спортсменів перешкодою для російських, - правозахисники",
+        "ukr_title": "МОК вважає українських спортсменів перешкодою для російських, - правозахисники"
     },
     {
-        "title": "В Краматорську від удару росіян загинули 4 особи з однієї родини, ще двоє поранені",
-        "link": "https://www.unian.ua/war/v-kramatorsku-vid-udaru-rosiyan-zaginuli-4-osobi-z-odniyeji-rodini-shche-dvoye-poraneni-13284951.html",
+        "title": "16 років у бігах: в Мілані затримали фаната хокею, який приїхав на Олімпіаду",
+        "link": "https://www.unian.ua/world/16-rokiv-u-bigah-v-milani-zatrimali-fanata-hokeyu-yakiy-prijihav-na-olimpiadu-13285011.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "mk",
+        "generated_title": "16 років у бігах: в Мілані затримали фаната хокею, який приїхав на Олімпіаду",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
+    },
+    {
+        "title": "\"Миротворець\" Трамп тягне ціни на нафту вниз",
+        "link": "https://www.unian.ua/economics/energetics/cini-na-naftu-chorne-zoloto-vidreaguvalo-na-zayavi-trampa-shchodo-iranu-13285005.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
         "lang": "ru",
-        "generated_title": "В Краматорську від удару росіян загинули 4 особи з однієї родини, ще двоє поранені",
+        "generated_title": "\"Миротворець\" Трамп тягне ціни на нафту вниз",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
     },
     {

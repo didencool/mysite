@@ -40,6 +40,30 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Очільниця Європарламенту розкритикувала ідею виборів в Україні під час війни",
+        "link": "https://www.unian.ua/politics/vibori-v-ukrajini-golova-yevroparlamentu-rozkritikuvala-ideyu-golosuvannya-pid-chas-viyni-13286652.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Очільниця Європарламенту розкритикувала ідею виборів в Україні під час війни",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Як не втратити форму з віком: тренери назвали 5 щоденних вправ для здорового старіння",
+        "link": "https://www.unian.ua/curiosities/yaka-vprava-pokrashchuye-koordinaciyu-ruhiv-treneri-nazvali-5-shchodennih-vprav-dlya-zdorovogo-starinnya-13286256.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Як не втратити форму з віком: тренери назвали 5 щоденних вправ для здорового старіння",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
+        "title": "Командир розповів, як саме Росія намагається компенсувати втрату Starlink",
+        "link": "https://www.unian.ua/war/starlink-fedorenko-rozpoviv-yak-rf-namagayetsya-kompensuvati-vtratu-dostupu-do-sistem-13286646.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "bg",
+        "generated_title": "Командир розповів, як саме Росія намагається компенсувати втрату Starlink",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
+    },
+    {
         "title": "Президент Литви висловився про мирні переговори щодо війни в Україні",
         "link": "https://www.unian.ua/world/viyna-v-ukrajini-prezident-litvi-nauseda-zrobiv-zayavu-pro-peregovori-13286640.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -51,32 +75,8 @@
         "title": "\"Дерево 40 фруктів\": рекордне дерево-сад створив садівник та митець",
         "link": "https://www.unian.ua/curiosities/derevo-sad-skulptor-ta-sadivnik-stvoryuye-dereva-na-yakih-rostut-do-40-sortiv-riznih-fruktiv-odnochasno-13286268.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
+        "lang": "bg",
         "generated_title": "\"Дерево 40 фруктів\": рекордне дерево-сад створив садівник та митець",
-        "ukr_title": "\"Дерево 40 фруктів\": рекордне дерево-сад створив садівник та митець"
-    },
-    {
-        "title": "Росія створила підрозділ для протидії морським дронам України: деталі від Риженка",
-        "link": "https://www.unian.ua/war/rosiya-stvorila-pidrozdil-dlya-protidiji-morskim-dronam-ukrajini-detali-vid-rizhenka-13286634.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Росія створила підрозділ для протидії морським дронам України: деталі від Риженка",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
-    },
-    {
-        "title": "Алієв розповів, як РФ тричі атакувала посольство Азербайджану в Києві",
-        "link": "https://www.unian.ua/world/viyna-v-ukrajini-rosiya-trichi-atakuvala-posolstvo-azerbaydzhanu-v-kiyevi-13286625.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Алієв розповів, як РФ тричі атакувала посольство Азербайджану в Києві",
-        "ukr_title": "Алієв розповів, як РФ тричі атакувала посольство Азербайджану в Києві"
-    },
-    {
-        "title": "\"Від позиції до позиції вже не дійдеш\": майор розповів про тактику росіян на фронті",
-        "link": "https://www.unian.ua/war/viyna-v-ukrajini-mayor-poyasniv-chi-efektivna-rosiyska-taktika-infiltraciji-13286622.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "\"Від позиції до позиції вже не дійдеш\": майор розповів про тактику росіян на фронті",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
@@ -96,6 +96,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     },
     {
+        "title": "Obama addresses racist video shared by Trump depicting him as an ape",
+        "link": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Obama addresses racist video shared by Trump depicting him as an ape",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
+    },
+    {
         "title": "Planned US-funded baby vaccine trial in Guinea-Bissau blasted by WHO",
         "link": "https://www.bbc.com/news/articles/c78j5k2gk02o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -109,14 +117,6 @@
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
-    },
-    {
-        "title": "No arrests made after police search residence near Nancy Guthrie's home",
-        "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "No arrests made after police search residence near Nancy Guthrie's home",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     }
 ]

@@ -40,6 +40,22 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "США розглядають можливість припинення військової операції проти Ірану, - Трамп",
+        "link": "https://www.unian.ua/world/viyna-v-irani-donald-tramp-zayaviv-shcho-ssha-rozglyadayut-mozhlivist-pripinennya-viyskovoji-operaciji-13322304.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "ru",
+        "generated_title": "США розглядають можливість припинення військової операції проти Ірану, - Трамп",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
+    },
+    {
+        "title": "На Майорці було знайдено рідкісну бронзову голову бика, якій понад 3000 років",
+        "link": "https://www.unian.ua/curiosities/arheologichni-znahidki-na-mayorci-znayshli-cikaviy-artefakt-u-formi-golovi-bika-13321959.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "На Майорці було знайдено рідкісну бронзову голову бика, якій понад 3000 років",
+        "ukr_title": "На Майорці було знайдено рідкісну бронзову голову бика, якій понад 3000 років"
+    },
+    {
         "title": "Війна в Ірані принесе Путіну до 250 мільярдів доларів, якщо затягнеться до вересня, - Der Spiegel",
         "link": "https://www.unian.ua/world/viyna-v-irani-prinese-rosiji-do-250-milyardiv-dolariv-yakshcho-zatyagnetsya-do-veresnya-der-spiegel-13322283.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -64,22 +80,6 @@
         "ukr_title": "У НАТО змінюється підхід до навчання операторів БПЛА: Business Insider пояснив різницю"
     },
     {
-        "title": "Жодних шкідників і гарний урожай: 23 рослини, біля яких варто посадити чорнобривці",
-        "link": "https://www.unian.ua/curiosities/chornobrivci-naykrashchiy-zahist-vid-shkidnikiv-na-gorodi-13321578.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
-        "generated_title": "Жодних шкідників і гарний урожай: 23 рослини, біля яких варто посадити чорнобривці",
-        "ukr_title": "Жодних шкідників і гарний урожай: 23 рослини, біля яких варто посадити чорнобривці"
-    },
-    {
-        "title": "Усик та Джошуа разом приїхали до Києва",
-        "link": "https://sport.unian.ua/usik-ta-dzhoshua-razom-prijihali-do-kiyeva-video-13322241.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "ru",
-        "generated_title": "Усик та Джошуа разом приїхали до Києва",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
-    },
-    {
         "title": "Norway's crown princess breaks silence, claiming she was 'manipulated and deceived' by Epstein",
         "link": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -96,6 +96,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     },
     {
+        "title": "Elon Musk misled Twitter investors, jury finds",
+        "link": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+        "source": "https://www.bbc.com/news/world/rss.xml",
+        "lang": "en",
+        "generated_title": "Elon Musk misled Twitter investors, jury finds",
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
+    },
+    {
         "title": "Israel strikes Syria after Druze clashes",
         "link": "https://www.bbc.com/news/articles/c248pgn158go?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
@@ -109,14 +117,6 @@
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
         "generated_title": "BTS return from military service - but does their album live up to the hype?",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
-    },
-    {
-        "title": "Leading anti‑racism activist in Tunisia jailed for eight years",
-        "link": "https://www.bbc.com/news/articles/clyjg1x7r43o?at_medium=RSS&at_campaign=rss",
-        "source": "https://www.bbc.com/news/world/rss.xml",
-        "lang": "en",
-        "generated_title": "Leading anti‑racism activist in Tunisia jailed for eight years",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     }
 ]

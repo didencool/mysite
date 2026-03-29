@@ -40,6 +40,14 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З unknown]"
     },
     {
+        "title": "Пишне цвітіння та гігантські бутони: головні секрети догляду за магнолією",
+        "link": "https://www.unian.ua/curiosities/magnoliya-yak-doglyadati-u-kvitni-dlya-pishnogo-cvitinnya-13331322.html",
+        "source": "https://rss.unian.net/site/news_ukr.rss",
+        "lang": "uk",
+        "generated_title": "Пишне цвітіння та гігантські бутони: головні секрети догляду за магнолією",
+        "ukr_title": "Пишне цвітіння та гігантські бутони: головні секрети догляду за магнолією"
+    },
+    {
         "title": "Тривожні паралелі: аналітик розповів, у чому схожість війн в Україні та Ірані",
         "link": "https://www.unian.ua/world/viyna-z-rf-analitik-rozpoviv-pro-podibnosti-mizh-viynami-v-ukrajini-ta-irani-13331544.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
@@ -51,9 +59,9 @@
         "title": "Трамп хоче вивести американські війська з Німеччини, - The Telegraph",
         "link": "https://www.unian.ua/world/tramp-i-nato-prezident-ssha-hoche-vivesti-amerikanski-viyska-z-nimechchini-13331535.html",
         "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "uk",
+        "lang": "ru",
         "generated_title": "Трамп хоче вивести американські війська з Німеччини, - The Telegraph",
-        "ukr_title": "Трамп хоче вивести американські війська з Німеччини, - The Telegraph"
+        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З ru]"
     },
     {
         "title": "Країни НАТО роблять небезпечну помилку при закупівлях зброї, - Business Insider",
@@ -70,14 +78,6 @@
         "lang": "mk",
         "generated_title": "Через блокування Ормузької протоки можливий дефіцит важливого елемента для дронів, - ЗМІ",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З mk]"
-    },
-    {
-        "title": "Україна готова ділитися досвідом: Зеленський розкрив деталі зустрічі з королем Йорданії",
-        "link": "https://www.unian.ua/politics/zelenskiy-prezident-povidomiv-pro-svoyu-zustrich-z-korolem-yordaniji-13331520.html",
-        "source": "https://rss.unian.net/site/news_ukr.rss",
-        "lang": "bg",
-        "generated_title": "Україна готова ділитися досвідом: Зеленський розкрив деталі зустрічі з королем Йорданії",
-        "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З bg]"
     },
     {
         "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
@@ -112,11 +112,11 @@
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     },
     {
-        "title": "African football chief resigns following row over Morocco-Senegal final",
-        "link": "https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&at_campaign=rss",
+        "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+        "link": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
         "source": "https://www.bbc.com/news/world/rss.xml",
         "lang": "en",
-        "generated_title": "African football chief resigns following row over Morocco-Senegal final",
+        "generated_title": "Italy investigates Sephora and Benefit over marketing skincare to children",
         "ukr_title": "[НЕ ПЕРЕКЛАДЕНО/ЗГЕНЕРОВАНО З en]"
     }
 ]
